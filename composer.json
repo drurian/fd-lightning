@@ -20,7 +20,9 @@
         "composer/installers": "^1.0",
         "drupal-composer/drupal-scaffold": "^2.0.0",
         "cweagans/composer-patches": "1.5.0",
-        "drupal/lightning": "^8.1.0"
+        "drupal/lightning": "^8.1.0",
+        "drupal/components": "8.x-1.x-dev",
+        "drupal/bear_skin": "^8.2"
     },
     "repositories": [
         {
